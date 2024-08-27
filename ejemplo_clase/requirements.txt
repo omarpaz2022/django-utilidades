@@ -15,6 +15,6 @@ django-cors-headers==3.14.0
 # Graficos:
 plotly==5.3.1
 # Tareas asincrónicas:
-celery==5.1
+celery==5.3
 redis==4.3.4
 flower==1.2.0
